@@ -1,0 +1,114 @@
+[
+  {
+    "id": "faixas-01",
+    "categoria": "Sistema de Faixas (Kyu/Dan)",
+    "publico": "ambos",
+    "pergunta_exemplo": "Qual a ordem das faixas no judô?",
+    "resposta": "No sistema brasileiro mais comum, a ordem geral das faixas é: Branca, Cinza, Azul, Amarela, Laranja, Verde, Roxa, Marrom e Preta. Para menores de 16 anos, algumas federações usam faixas intermediárias (ex.: cinza e ponta). A partir da faixa preta, existem os graus (Dan), que vão de 1º a 10º Dan. As regras específicas de tempo mínimo de treino e requisitos por categoria de idade podem variar entre federações (CBJ, estaduais, ou a academia), então sempre confirme com o(a) professor(a) responsável.",
+    "palavras_chave": ["faixa", "faixas", "graduação", "kyu", "dan", "cor", "cores", "graduar", "passar de faixa"]
+  },
+  {
+    "id": "faixas-02",
+    "categoria": "Tempo mínimo entre graduações",
+    "publico": "professor",
+    "pergunta_exemplo": "Quanto tempo demora para trocar de faixa?",
+    "resposta": "Não existe um prazo universal: o tempo entre graduações depende da federação, da idade do(a) atleta, da frequência de treino e da avaliação técnica do(a) professor(a). Como referência geral, muitas academias trabalham com intervalos de 6 a 12 meses entre faixas nos níveis iniciais, mas isso é uma prática comum, não uma regra fixa. Recomendo sempre confirmar o regulamento oficial da federação à qual a academia é filiada.",
+    "palavras_chave": ["tempo", "faixa", "graduação", "quanto tempo", "trocar de faixa", "exame"]
+  },
+  {
+    "id": "pontuacao-01",
+    "categoria": "Sistema de Pontuação em Competição",
+    "publico": "ambos",
+    "pergunta_exemplo": "Como funciona a pontuação no judô hoje em dia?",
+    "resposta": "No sistema atual da IJF, as pontuações de técnica são: Ippon (vitória imediata, por exemplo em uma queda com força, controle, velocidade e as costas do oponente tocando o tatame, ou em uma imobilização completa pelo tempo regulamentar) e Waza-ari (pontuação parcial; dois Waza-ari não somam mais Ippon automaticamente nas regras mais recentes da IJF, mas o(a) atleta com mais Waza-ari geralmente vence se não houver Ippon). Também existem as penalidades Shido (até 3 avisos podem levar à desclassificação) e Hansoku-make (desclassificação direta por infração grave). As regras têm mudado com frequência nos últimos anos, então para uma competição oficial vale sempre checar o regulamento vigente da IJF ou da federação organizadora.",
+    "palavras_chave": ["ippon", "waza-ari", "wazari", "shido", "hansoku", "pontuação", "pontos", "vitória", "regras de competição"]
+  },
+  {
+    "id": "tecnicas-01",
+    "categoria": "Categorias de Técnicas (Waza)",
+    "publico": "ambos",
+    "pergunta_exemplo": "Quais são os tipos de técnicas do judô?",
+    "resposta": "As técnicas do judô se dividem em três grandes grupos: Nage-waza (técnicas de projeção/queda, como O-soto-gari, Seoi-nage e Uchi-mata), Katame-waza (técnicas de imobilização e controle no solo, subdivididas em Osaekomi-waza/imobilizações, Shime-waza/estrangulamentos e Kansetsu-waza/chaves de articulação) e Atemi-waza (técnicas de golpe, que hoje têm caráter apenas didático/histórico e não são usadas em competição). Cada grupo tem dezenas de técnicas específicas; posso detalhar alguma delas se você disser qual.",
+    "palavras_chave": ["técnica", "técnicas", "golpe", "golpes", "nage-waza", "katame-waza", "projeção", "imobilização", "waza"]
+  },
+  {
+    "id": "tecnicas-02",
+    "categoria": "Quedas Básicas (Nage-waza) para Iniciantes",
+    "publico": "atleta",
+    "pergunta_exemplo": "Quais são boas técnicas de queda para quem está começando?",
+    "resposta": "Técnicas tradicionalmente ensinadas para iniciantes incluem: O-soto-gari (rasteira externa), O-goshi (projeção de quadril), Seoi-nage (projeção de ombro) e Ippon-seoi-nage. Elas ajudam a desenvolver kuzushi (desequilíbrio), tsukuri (entrada) e kake (execução) — os três princípios básicos de qualquer projeção. O ideal é aprender essas técnicas com supervisão de um(a) professor(a), praticando primeiro o ukemi (queda de proteção) com segurança.",
+    "palavras_chave": ["queda", "quedas", "iniciante", "iniciantes", "o-soto-gari", "seoi-nage", "kuzushi", "ukemi", "básico"]
+  },
+  {
+    "id": "etiqueta-01",
+    "categoria": "Etiqueta e Filosofia do Judô",
+    "publico": "ambos",
+    "pergunta_exemplo": "Quais são os princípios do judô?",
+    "resposta": "O judô, criado por Jigoro Kano, se apoia em dois princípios centrais: Seiryoku Zen'yo (máxima eficiência com o mínimo de esforço) e Jita Kyoei (benefício e prosperidade mútuos). Na prática, isso se reflete em etiquetas como a reverência (rei) ao entrar e sair do tatame e ao início/fim de cada luta, respeito ao(à) professor(a) e aos(às) colegas, e cuidado com o kimono (judogi) e as unhas para evitar machucar o parceiro de treino.",
+    "palavras_chave": ["filosofia", "princípios", "etiqueta", "rei", "reverência", "jigoro kano", "respeito", "jita kyoei", "seiryoku zen'yo"]
+  },
+  {
+    "id": "treino-01",
+    "categoria": "Estrutura Básica de uma Aula de Judô",
+    "publico": "professor",
+    "pergunta_exemplo": "Como estruturar uma aula de judô?",
+    "resposta": "Uma estrutura comum de aula inclui: (1) reverência e aquecimento geral, (2) ukemi (quedas de proteção), (3) técnicas de queda (nage-waza) com repetição guiada, (4) randori ou treino dirigido de projeção, (5) técnicas de solo (katame-waza), (6) randori de solo, e (7) volta à calma e reverência final. A proporção de cada parte varia conforme o nível da turma (iniciante, intermediário, competição) e o objetivo daquele treino específico.",
+    "palavras_chave": ["aula", "treino", "planejar aula", "estrutura", "randori", "aquecimento", "plano de aula"]
+  },
+  {
+    "id": "treino-02",
+    "categoria": "Periodização Básica para Competição",
+    "publico": "professor",
+    "pergunta_exemplo": "Como organizar o treino de um atleta perto de uma competição?",
+    "resposta": "De forma geral, a periodização costuma seguir fases: base (volume mais alto, foco técnico e condicionamento geral), pré-competitiva (mais intensidade, randori específico, simulação de combate) e polimento/tapering (redução de volume nas últimas 1-2 semanas para chegar descansado). Detalhes de carga, frequência e intensidade dependem do nível do(a) atleta, histórico de lesões e calendário de competições — o ideal é que um(a) profissional de educação física ou preparador físico acompanhe esse planejamento junto com o(a) técnico(a).",
+    "palavras_chave": ["periodização", "competição", "planejamento", "preparação física", "tapering", "treino"]
+  },
+  {
+    "id": "lesoes-01",
+    "categoria": "Prevenção Básica de Lesões",
+    "publico": "ambos",
+    "pergunta_exemplo": "Como evitar lesões no judô?",
+    "resposta": "Algumas práticas gerais de prevenção incluem: aquecimento adequado antes do treino, aprendizado correto do ukemi antes de treinar quedas com intensidade, progressão gradual de carga e intensidade, uso de kimono e unhas bem cuidados, e respeito aos limites do parceiro de treino. Esta é uma orientação geral e não substitui avaliação de um profissional de saúde ou de educação física. Em caso de dor persistente, lesão ou dúvida sobre retorno ao treino após uma lesão, a orientação é sempre procurar um médico ou fisioterapeuta.",
+    "palavras_chave": ["lesão", "lesões", "machucar", "prevenção", "dor", "aquecimento", "segurança"]
+  },
+  {
+    "id": "categorias-01",
+    "categoria": "Categorias de Peso",
+    "publico": "ambos",
+    "pergunta_exemplo": "Quais são as categorias de peso no judô?",
+    "resposta": "As categorias de peso variam por faixa etária e federação, e mudam periodicamente nos regulamentos oficiais. No judô adulto internacional (IJF), por exemplo, existem categorias como até 60kg, até 66kg, até 73kg, até 81kg, até 90kg, até 100kg e acima de 100kg no masculino, com divisões equivalentes no feminino. Para competições infantis, juvenis ou estaduais, as categorias costumam ser diferentes. Recomendo sempre checar o regulamento específico da competição em que você ou seu(sua) atleta vai participar.",
+    "palavras_chave": ["peso", "categoria", "categorias", "kg", "pesagem"]
+  },
+  {
+    "id": "papel-professor-01",
+    "categoria": "Papel do Professor/Sensei",
+    "publico": "professor",
+    "pergunta_exemplo": "Qual a responsabilidade de um professor de judô com os alunos?",
+    "resposta": "Além do ensino técnico, o(a) professor(a) de judô costuma ser responsável por garantir um ambiente seguro de treino, adaptar a aula para diferentes idades e níveis, observar sinais de fadiga ou lesão nos(as) alunos(as), reforçar valores como respeito e disciplina, e acompanhar a evolução técnica para orientar as graduações. Questões médicas, nutricionais ou psicológicas mais específicas devem ser encaminhadas a profissionais especializados.",
+    "palavras_chave": ["professor", "sensei", "responsabilidade", "papel do professor", "ensino"]
+  },
+  {
+    "id": "nutricao-01",
+    "categoria": "Nutrição Básica para Atletas",
+    "publico": "atleta",
+    "pergunta_exemplo": "O que um atleta de judô deve comer?",
+    "resposta": "De forma bem geral, atletas de judô costumam se beneficiar de uma alimentação equilibrada com boa hidratação, carboidratos para energia de treino, proteína para recuperação muscular e atenção especial em períodos de corte de peso para competição, que devem ser feitos com cautela. Este assistente não fornece planos alimentares, quantidades específicas ou orientações de corte de peso: para isso é essencial acompanhamento de um(a) nutricionista esportivo(a), especialmente em categorias de peso.",
+    "palavras_chave": ["nutrição", "alimentação", "dieta", "peso", "corte de peso", "comer"]
+  },
+  {
+    "id": "primeiros-socorros-01",
+    "categoria": "Situações de Emergência no Tatame",
+    "publico": "professor",
+    "pergunta_exemplo": "O que fazer se um aluno se machucar durante o treino?",
+    "resposta": "Este assistente não substitui treinamento de primeiros socorros nem orientação médica. Em geral, a recomendação é: interromper a atividade imediatamente, não movimentar a pessoa se houver suspeita de lesão na coluna ou fratura, acionar ajuda especializada (SAMU ou serviço de emergência local) quando necessário, e ter sempre à mão um plano de emergência da academia. É altamente recomendado que professores(as) façam um curso de primeiros socorros específico para esportes de combate.",
+    "palavras_chave": ["emergência", "machucado", "primeiros socorros", "acidente", "contusão", "urgência"]
+  },
+  {
+    "id": "mentalidade-01",
+    "categoria": "Preparação Mental para Competição",
+    "publico": "atleta",
+    "pergunta_exemplo": "Como lidar com o nervosismo antes de uma luta?",
+    "resposta": "Estratégias comuns incluem rotinas de aquecimento consistentes, técnicas de respiração para controlar a ansiedade, visualização da luta antes de competir, e focar em processos (execução técnica) em vez de só no resultado. Este assistente pode dar orientações gerais, mas para um trabalho mais profundo de preparação mental, o ideal é buscar um(a) psicólogo(a) do esporte.",
+    "palavras_chave": ["nervosismo", "ansiedade", "mental", "psicológico", "competição", "foco", "pressão"]
+  }
+]
