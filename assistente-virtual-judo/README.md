@@ -73,4 +73,5 @@ Este projeto foi desenvolvido a partir do desafio [Construa Seu Assistente Virtu
 
 ## Autor(a)
 
-_Preencha aqui seu nome e um link para seu perfil (GitHub, LinkedIn) antes de publicar o repositório._
+João Pedro Fonseca Preigschadt
+Linkedin: linkedin.com/in/joão-pedro-fonseca-6460481a5
